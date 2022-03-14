@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning front end libraries 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me krout229.kr@gmail.com
+- 📫 How to reach me ladly.rout2000@gmail.com
 
 <!---
 krout229/krout229 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
