@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @ladlyrout2000
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning front end libraries 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ladly.rout2000@gmail.com
 
 <!---
